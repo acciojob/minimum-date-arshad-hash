@@ -1,5 +1,9 @@
 function minDate(dates) {
-  //write you code here
+  //write you code he returnre
+	// dates.sort();
+	// let red=[];
+	// return red.push(dates[0]);
+	return dates[0];
 }
 
 // Do not change the code
@@ -30,7 +34,7 @@ var dates = [
   "2023/03/23",
   "2023/03/24",
   "2023/03/25",
-  "2023/03/26",
+  "2023/03/26",  
   "2023/03/27",
   "2023/03/28",
   "2023/03/29",
